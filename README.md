@@ -28,14 +28,11 @@ To run the guessing game on your local machine, follow these steps:
    ```bash
    git clone https://github.com/danijel-radomiljac/guessing_game.git
 
-
 2. Navigate to the project directory:
    ```bash
    cd guessing_game
 
-
 3. Build and run the game:
    ```bash
    cargo run
-
 
